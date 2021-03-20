@@ -323,6 +323,7 @@ textarea {
   margin: 0 auto 30px auto;
   font-size: 13px;
   line-height: 1.7;
+  text-align: justify;
 }
 
 @media (min-width: 768px) {

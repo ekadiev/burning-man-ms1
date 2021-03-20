@@ -48,26 +48,27 @@
       <div class="container">
         <div class="contact-form">
           <div class="contact-form__form">
-            <form action="#" class="form-layout">
+            <form action="POST" class="form-layout">
               <div class="form-col-50">
                 <label for="contact-name">Your Name</label>
-                <input type="text" class="form-control" name="contact-name" id="contact-name">
+                <input type="text" class="form-control" name="contact-name" id="contact-name" required>
               </div>
               <div class="form-col-50">
                 <label for="contact-email">Your Email</label>
-                <input type="email" class="form-control" name="contact-email" id="contact-email">
+                <input type="email" class="form-control" name="contact-email" id="contact-email" required>
               </div>
               <div class="form-col">
                 <label for="contact-message">Your Message</label>
                 <textarea class="form-control"
                           name="contact-message"
                           id="contact-message"
-                          rows="4"></textarea>
+                          rows="4" required></textarea>
               </div>
               <div class="form-col">
                 <button class="btn btn-primary" type="submit">
                   Submit
                 </button>
+                <input class="btn btn-primary" type="reset" value="Reset Form">
               </div>
             </form>
           </div>
@@ -88,25 +89,25 @@
   <footer>
     <div class="container">
       <div class="footer-row">
-        <small class="footer-copyright">© 2020 WebDev — All Rights Reserved</small>
+        <small class="footer-copyright">© 2021 WebDev — All Rights Reserved</small>
         <ul class="footer-social">
           <li>
-            <a href="#">
+            <a href="https://www.facebook.com/" target="_blank">
               <img src="assets/images/icons/facebook.svg" alt="WebDev on Facebook">
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="https://www.instagram.com/" target="_blank">
               <img src="assets/images/icons/instagram.svg" alt="WebDev on Instagram">
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="https://www.youtube.com/" target="_blank">
               <img src="assets/images/icons/youtube.svg" alt="WebDev on Youtube">
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="https://twitter.com/?lang=en" target="_blank">
               <img src="assets/images/icons/twitter.svg" alt="WebDev on Twitter">
             </a>
           </li>
