@@ -1,6 +1,6 @@
 # WebDev - Milestone Project 1 
 
-![responsive](assets/mockups-and-wireframes/mockup.png)
+![responsive](assets/wireframes/mockup.png)
 
 You can view my site [Link the live project here](https://ekadiev.github.io/webdev-ms1/index.html) 
 
