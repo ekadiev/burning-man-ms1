@@ -29,18 +29,18 @@ This company is specialised in web design, and web solutions. Project was design
 
   - ### Design
    
-     ### Color Scheme 
-       -  In this project, a wide range of colors was used from dark colors smoothly transitioning to light ones. Main Emphasis
+    ### Color Scheme 
+         In this project, a wide range of colors was used from dark colors smoothly transitioning to light ones. Main Emphasis
           was set to light colors for the convenience of perceiving information. 
 
-     ### Typorgaphy
-        - Google fonts "Open Sans" were used all pages throughout the project. [Google](https://fonts.google.com/)
+    ### Typorgaphy
+         Google fonts "Open Sans" were used all pages throughout the project. [Google](https://fonts.google.com/)
 
-     ### Imagery
-        - All project pictures is imported [Pixels](https://www.pexels.com/) online photo librarys. 
+    ### Imagery
+         All project pictures is imported [Pixels](https://www.pexels.com/) online photo librarys. 
 
-     ### Contemt
-        - The context was partially taken from [Here](https://www.chetu.com/)
+    ### Contemt
+         The context was partially taken from [Here](https://www.chetu.com/)
 
 
 ## WireFrames
@@ -89,10 +89,19 @@ Initial Wireframe designs made on Figma:
  - [Results](https://github.com/ekadiev/webdev-ms1/blob/master/assets/wireframes/html-validation.png)
 
  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
- - [Results](https://github.com/ekadiev/webdev-ms1/blob/master/assets/wireframes/css-validation.png)
+ - [Results](https://github.com/ekadiev/webdev-ms1/blob/master/assets/wireframes/css-validation.png) 
+
+ ### Further Testing
+
+* The Website was tested on Mozilla Firefox, Safari Browser, Google Chrome and Microsoft Edge showing fully functionality.
+* The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 7/8/X, Xiaomy 7/8, ipad pro, galaxy tab. 
+  No bugs were found, everything worked properly with text/images loading & links.
+
+* Lighthouse used within Chrome Dev tools to assess performance on desktop & mobile display, initial results below: 
+  [Lighthouse](https://github.com/ekadiev/webdev-ms1/blob/master/assets/wireframes/light-house.png)
 
 
-## Deployment
+## Deployment 
 
 ### GitHub Pages
 
