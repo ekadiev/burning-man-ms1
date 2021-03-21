@@ -1,6 +1,6 @@
 # WebDev - Milestone Project 1 
 
-![responsive](assets/mockups-and-wireframes/logo.png)
+![responsive](assets/mockups-and-wireframes/mockup.png)
 
 You can view my site [Link the live project here](https://ekadiev.github.io/webdev-ms1/index.html) 
 
@@ -86,10 +86,10 @@ Initial Wireframe designs made on Figma:
  - The W3C Markup Validator and W3C CSS Validator Services were used to validate project page to ensure there were no syntax error in the project:
 
  * [W3C Markup Validator](https://validator.w3.org/#validate_by_input) 
- - [Results]()
+ - [Results](https://github.com/ekadiev/webdev-ms1/blob/master/assets/wireframes/html-validation.png)
 
  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
- - [Results]()
+ - [Results](https://github.com/ekadiev/webdev-ms1/blob/master/assets/wireframes/css-validation.png)
 
 
 ## Deployment
