@@ -134,4 +134,4 @@ The project was deployed to GitHub Pages by following steps:
 
 I'd like to thank to 
   - Matt Rudge, Brian O Grady, Anna Greaves and all the amazing tutors from Code Institute for the tutorials.
-  - My mentor Oluwafemi Medale and all Slack Community for their help.
+  - All Slack Community for their help.
