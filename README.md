@@ -53,15 +53,11 @@ This company is specialised in web design, and web solutions. Project was design
 
 ## WireFrames
 
-Initial Wireframe designs made on Figma:
+Initial Wireframe:
 
-[Desktop -Home Page](assets/wireframes/home-desktop.png) <br>
-[Desktop - Menu Page](assets/wireframes/menu-desktop.png) <br>
-[Desktop - Contact Page](assets/wireframes/contact-desktop.png) <br>
-
-[Mobile - Home Page](assets/wireframes/home-mobile.png) <br>
-[Mobile - Menu Page](assets/wireframes/menu-mobile.png) <br>
-[Mobile - Contact Page](assets/wireframes/contact-mobile.png) <br>
+[Home Page](assets/wireframes/home-wireframes.png) <br>
+[About Page](assets/wireframes/menu-wireframes.png) <br>
+[Contact Page](assets/wireframes/contact-wireframes.png) <br>
 
 
 ### Languages Used
