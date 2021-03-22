@@ -1,4 +1,4 @@
-# WebDev - Milestone Project 1 
+"# WebDev - Milestone Project 1 
 
 ![responsive](assets/wireframes/mockup.png)
 
@@ -27,20 +27,28 @@ This company is specialised in web design, and web solutions. Project was design
         - Find the best way to get in contact with the professional with any questions I may have.
         - Find social media links.
 
-  - ### Design
+
+   - ### Design
    
-    ### Color Scheme 
-         In this project, a wide range of colors was used from dark colors smoothly transitioning to light ones. Main Emphasis
-          was set to light colors for the convenience of perceiving information. 
+  - ### Color Scheme 
+        In this project, a wide range of colors was used from dark colors smoothly 
+        transitioning to light ones. Main Emphasis was set to light colors for the 
+        convenience of perceiving information. 
 
-    ### Typorgaphy
-         Google fonts "Open Sans" were used all pages throughout the project. [Google](https://fonts.google.com/)
+  - ### Typorgaphy
+       - [Google Fonts](https://fonts.google.com/)
+       - Google fonts "Open Sans" were used all pages throughout the project.
+         
 
-    ### Imagery
-         All project pictures is imported [Pixels](https://www.pexels.com/) online photo librarys. 
+  - ### Imagery
+       - All project pictures is imported from online photo libraryes.
+       - [Pexels](https://www.pexels.com/)
+       
 
-    ### Contemt
-         The context was partially taken from [Here](https://www.chetu.com/)
+  - ### Contemt 
+       - The context was partially taken from Chetu website.
+       - [Chetu](https://www.chetu.com/)
+       
 
 
 ## WireFrames
@@ -99,6 +107,7 @@ Initial Wireframe designs made on Figma:
 
 * Lighthouse used within Chrome Dev tools to assess performance on desktop & mobile display, initial results below: 
   [Lighthouse](https://github.com/ekadiev/webdev-ms1/blob/master/assets/wireframes/light-house.png)
+
 
 
 ## Deployment 
