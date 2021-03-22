@@ -53,11 +53,11 @@ This company is specialised in web design, and web solutions. Project was design
 
 ## WireFrames
 
-Initial Wireframe:
+Wireframe was created for thi project:
 
-[Home Page](assets/wireframes/home-wireframes.png) <br>
-[About Page](assets/wireframes/menu-wireframes.png) <br>
-[Contact Page](assets/wireframes/contact-wireframes.png) <br>
+[Home Page](assets/wireframes/home-wireframe.png) <br>
+[About Page](assets/wireframes/menu-wireframe.png) <br>
+[Contact Page](assets/wireframes/contact-wireframe.png) <br>
 
 
 ### Languages Used
